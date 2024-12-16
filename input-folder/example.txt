@@ -1,0 +1,2 @@
+Hi this is example of text Content inside text file
+named example.txt
